@@ -520,14 +520,13 @@ mvn test
 
 ## 🛠️ Author & Community
 
-This project is maintained by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.
+This project is maintained by **[Akki Mahesh](https://github.com/akkimahesh)** 💡.
 Your feedback and contributions are welcome!
 
 📧 **Connect with me:**
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguytech.com)
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)
-- **LinkedIn**: [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)
+
+- **GitHub**: [@akkimahesh](https://github.com/akkimahesh)  
+- **LinkedIn**: [Akki Mahesh](https://www.linkedin.com/in/maheshakki)  
 
 ---
 
@@ -540,7 +539,7 @@ If you found this project helpful, please consider:
 
 ### 📢 Stay Connected
 
-![Follow Me](https://imgur.com/2j7GSPs.png)
+![Akki Mahesh](banner.png)
 
 > [!Important]
 > This documentation is continuously evolving. For the latest updates, please check the repository regularly.

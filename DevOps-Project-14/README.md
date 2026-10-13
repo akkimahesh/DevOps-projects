@@ -25,13 +25,13 @@ Check out the complete **blog tutorial with screenshots** here:
 
 ## 🛠️ Author & Credits  
 
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
+This project is crafted by **[Akki Mahesh](https://github.com/akkimahesh)** 💡.  
 I’d love to hear your feedback! Let me know what you think.  
 
-📧 **Connect with me**:  
+📧 **Connect with me:**
 
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguytech.com)  
+- **GitHub**: [@akkimahesh](https://github.com/akkimahesh)  
+- **LinkedIn**: [Akki Mahesh](https://www.linkedin.com/in/maheshakki)  
 
 ### ⭐ Support the Project  
 
@@ -41,4 +41,4 @@ If you found this helpful, consider **starring** ⭐ the repository and sharing 
 
 ### 📢 Stay Connected  
 
-![Follow Me](https://imgur.com/2j7GSPs.png)  
+![Akki Mahesh](banner.png)  

@@ -516,15 +516,13 @@ Also, we if access our new dockerized app from our browser on port 8087, the res
 
 ## 🛠️ Author & Community  
 
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
+This project is crafted by **[Akki Mahesh](https://github.com/akkimahesh)** 💡.  
 I’d love to hear your feedback! Feel free to share your thoughts.  
 
 📧 **Connect with me:**
 
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)  
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguytech.com)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
-- **LinkedIn**: [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)  
+- **GitHub**: [@akkimahesh](https://github.com/akkimahesh)  
+- **LinkedIn**: [Akki Mahesh](https://www.linkedin.com/in/maheshakki)  
 
 ---
 
@@ -534,4 +532,4 @@ If you found this helpful, consider **starring** ⭐ the repository and sharing 
 
 ### 📢 Stay Connected  
 
-![Follow Me](https://imgur.com/2j7GSPs.png)  
+![Akki Mahesh](banner.png)  
